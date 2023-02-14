@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saurav Thakuria</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-aur-av&label=Profile%20views&color=0e75b6&style=flat" alt="s-aur-av" /> </p>
 
-<img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif>
+- 👀 I’m interested in [WebDev](A.I)
 
-- 👀 I’m interested in [Software Development](Web Dev)
+- 🌱 I’m currently learning **...**
 
-- 📫 How to reach me **@Discord Saurav#8376**
+- 📫 Reach me @Discord: **Saurav#8376**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
